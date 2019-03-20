@@ -1,0 +1,21 @@
+﻿#body {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 9420px;
+    height: 615px;
+    /* Ci-dessous, nous appliquons un background de couleur noire et d'opacité 0.2. */
+    background-color: rgba(0,0,0,0.2);
+    
+}
+
+
+.smallgrid {
+    
+    background-image: repeating-linear-gradient(0deg,transparent,transparent 13px,#CCF 13px,#CCF 14px),repeating-linear-gradient(-90deg,transparent,transparent 13px,#CCF 13px,#CCF 14px);
+    background-size: 17.3px 17.3px;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+}
+

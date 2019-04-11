@@ -1,4 +1,4 @@
 # MarioBros
 
-On à fait plein de chose mais on à tellement travaillés beaucoup que on à pas eu le temps de faire un README.
-Désolé ¯\_('^')_/¯
+On Ã  fait plein de chose mais on Ã  tellement travaillÃ©s beaucoup que on Ã  pas eu le temps de faire un README.
+DÃ©solÃ©       Â¯\_('^')_/Â¯
